@@ -1,0 +1,56 @@
+.div {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  border-radius: 33px 25px 25px 35px;
+  padding-right: 0.5rem;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.div_light {
+  background: #fbfbfb;
+}
+.div_dark {
+  background: #515151;
+}
+.div img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
+.green:hover {
+  box-shadow: 0px 0px 6.300000190734863px 0px #17d924,
+    0px 0px 12.600000381469727px 0px #17d924,
+    0px 0px 44.099998474121094px 0px #17d924,
+    0px 0px 88.19999694824219px 0px #17d924,
+    0px 0px 151.1999969482422px 0px #17d924,
+    0px 0px 264.6000061035156px 0px #17d924;
+}
+.blue:hover {
+  box-shadow: 0px 0px 6.300000190734863px 0px #1360dd,
+    0px 0px 12.600000381469727px 0px #1360dd,
+    0px 0px 44.099998474121094px 0px #1360dd,
+    0px 0px 88.19999694824219px 0px #1360dd,
+    0px 0px 151.1999969482422px 0px #1360dd,
+    0px 0px 264.6000061035156px 0px #1360dd;
+}
+.sky_blue:hover {
+  box-shadow: 0px 0px 6.08159875869751px 0px #619ed7,
+    0px 0px 12.16319751739502px 0px #619ed7,
+    0px 0px 42.57119369506836px 0px #619ed7,
+    0px 0px 85.14238739013672px 0px #619ed7,
+    0px 0px 145.9583740234375px 0px #619ed7,
+    0px 0px 255.42715454101562px 0px #619ed7;
+}
+.yellow:hover {
+  box-shadow: 0px 0px 6.300000190734863px 0px #dfe228,
+    0px 0px 12.600000381469727px 0px #dfe228,
+    0px 0px 44.099998474121094px 0px #dfe228,
+    0px 0px 88.19999694824219px 0px #dfe228,
+    0px 0px 151.1999969482422px 0px #dfe228,
+    0px 0px 264.6000061035156px 0px #dfe228;
+}
+.div h5 {
+  color: #000;
+  font-family: 'Gilroy', sans-serif;
+  font-weight: 300;
+}

@@ -1,0 +1,13 @@
+.div {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.div h3 {
+  font-family: 'Gilroy';
+  font-weight: 800;
+}
+.div img {
+  width: 12rem;
+  height: 12rem;
+}
